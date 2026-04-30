@@ -3,7 +3,7 @@ Contiene el backend desarrollado en Spring Boot.
 URL: https://github.com/SimonKaiak/NoLimits-SpringBoot
 
 repositorio_frontend.zip:
-Contiene el frontend desarrollado en React.
+No se incluye archivo ZIP debido a limitaciones de tamaño.
 URL: https://github.com/SimonKaiak/NoLimits-React
 
 microservicio:
