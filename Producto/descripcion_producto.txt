@@ -1,0 +1,11 @@
+repositorio_backend.zip:
+Contiene el backend desarrollado en Spring Boot.
+URL: https://github.com/SimonKaiak/NoLimits-SpringBoot
+
+repositorio_frontend.zip:
+Contiene el frontend desarrollado en React.
+URL: https://github.com/SimonKaiak/NoLimits-React
+
+microservicio:
+Contiene el servicio de scraping/API en Node.js.
+URL: https://github.com/SimonKaiak/nolimits-scraping-service
