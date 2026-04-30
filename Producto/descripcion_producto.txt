@@ -9,3 +9,6 @@ URL: https://github.com/SimonKaiak/NoLimits-React
 microservicio:
 Contiene el servicio de scraping/API en Node.js.
 URL: https://github.com/SimonKaiak/nolimits-scraping-service
+
+base_de_datos.zip:
+No se incluye archivo independiente, ya que la estructura de la base de datos está definida mediante entidades JPA en el backend.
